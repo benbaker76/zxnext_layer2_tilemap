@@ -41,7 +41,7 @@ Sinclair ZX Spectrum emulator.
 ## Thanks
 
 - [Michael Ware](https://www.rustypixels.uk/) for innumerable help with the Next hardware, z80 asm and optimizations
-- [Sefan Bylund](https://github.com/stefanbylund) for his z88dk examples on which mine are based
+- [Sefan Bylund](https://github.com/stefanbylund) for his z88dk examples on which these are based
 - [Peter Ped Helcmanovsky](https://github.com/ped7g) for help and optimizations
 - [Allan Albright](https://github.com/aralbrec) for help with z88dk
 
