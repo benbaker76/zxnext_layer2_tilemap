@@ -38,6 +38,14 @@ following command:
 4. Run the zxnext_layer2_tilemap/bin/zxnext_layer2_tilemap.nex file in your
 Sinclair ZX Spectrum emulator.
 
+## Donations
+
+If you wanna support us, any donations are welcome:
+
+BTC: 0xb34A97167D8C46f89B2f822244da95f24416D04d
+ETH: 0x3056bc1F8B3cA0c22DAbbE1cdD66EE4947E96e55
+RTM: RJby6dvr7sta1bMC456UkdqWwnqhmY79Ba
+
 ## Thanks
 
 - [Michael Ware](https://www.rustypixels.uk/) for innumerable help with the Next hardware, z80 asm and optimizations
